@@ -14,11 +14,6 @@ Each case includes:
 - What could go wrong (bias, fairness, accountability, etc.)
 - One concrete idea to improve the system
 
-## 🚀 Submission Instructions
 
-Share the link to this GitHub repository as your final submission.
 
-## ✨ Bonus Points
-
-The write-up is written in a blog style for clarity and engagement — enjoy reading!
 
