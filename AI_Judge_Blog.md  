@@ -1,0 +1,39 @@
+
+#AI in the Real World — Judge the Bot
+
+## Case 1: The Biased Hiring Bot  
+**Title: “Dear AI, Stop Ghosting Qualified Women”**
+
+** What’s Happening:**  
+A company deploys an AI-powered hiring tool to screen job applicants. The system evaluates resumes, filtering out candidates based on patterns it finds in “successful” past hires.
+
+** What’s Problematic:**  
+Turns out, this bot has a *type*—and it’s not women with career gaps. Because the AI was trained on historical hiring data (which may reflect past biases), it ends up unfairly penalizing applicants (often women) who took time off for caregiving, travel, or health reasons.
+
+So instead of leveling the playing field, it’s reinforcing old stereotypes—*hello algorithmic bias*.
+
+** Fix-It Idea:**  
+Retrain the model on **diverse, de-biased data** and explicitly **include “career gaps” as a neutral or context-aware feature**. Better yet, add **human review** checkpoints to evaluate flagged candidates more fairly. Bonus: encourage transparency by showing applicants why they were rejected.
+
+---
+
+##  Case 2: The Suspicious School Bot  
+**Title: “The AI That Thought I Cheated (But I Was Just Anxious)”**
+
+** What’s Happening:**  
+An AI proctoring system monitors students during online exams. It uses webcam footage to flag “suspicious behavior” like looking away from the screen too often or sudden head movements.
+
+** What’s Problematic:**  
+Here’s the catch: neurodivergent students, students with anxiety, or those with physical tics get flagged *way* more often—even if they’re just thinking or self-regulating.
+
+That’s not just annoying. It’s discriminatory. The bot fails to consider diverse expressions of focus and behavior—turning inclusivity into collateral damage.
+
+** Fix-It Idea:**  
+Allow students to **opt out** and choose alternative proctoring methods (like open-book or oral exams). Also, include **human oversight** in final decisions—AI should suggest, not accuse. And critically, retrain the system with **input from neurodiverse users** to make it more inclusive and context-aware.
+
+---
+
+##  Final Thoughts: Bot or Not, We Need Checks  
+AI isn’t magic—it’s math with a mirror. If we feed it biased, narrow, or incomplete data, it reflects that back in harmful ways. So let’s build bots that don’t just scale decisions but scale **fairness, transparency, and empathy**.
+
+ Because the future of tech is only as good as the humans behind it.
